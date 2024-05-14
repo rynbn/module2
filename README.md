@@ -1,4 +1,4 @@
-# Local Bank
+# BANK
 
 > A Simple Web3 application for transferring Ether and personalizing your account. 
 
@@ -56,4 +56,10 @@ This is a simple web3 application built with HTML, CSS, and Solidity. It uses th
 3. Confirm the transaction in MetaMask.
 4. The account name will be updated, and the change will be reflected in the account details.
 
+**Authors**
 
+Ryan Lester Aban
+email: 422004489@ntc.edu.ph
+
+**License**
+This project is licensed under the Ryan Lester Aban License
